@@ -1,1 +1,23 @@
-# unravelml
+# Welcome to UnravelML
+## We make machine learning make sense.
+
+
+We have gathered instructional materials, examples, and tools to help you understand what machine learning is, how it can be used to solve problems, and what goes under the hood. No programming, math, or computer science experience required.
+
+
+You can visit our tool by clicking here.
+
+
+The tool contains three sections of content.
+
+The **Machine Learning Primer** is a flipbook of ideas and concepts about machine learning. What is it? How and when was it developed? What is all the hype about? We talk through these concepts using some real-world examples to give you a feel for the context surrounding machine learning. We want you to walk away from the primer with an understanding of the value of machine learning, as well as an introduction to its inner workings.
+
+In **Machine Learning Example Walkthroughs**, ######
+
+Finally, we have created a prototype tool for you to begin exploring machine learning with your own data. The **Machine Learning Interpretability Tool** will guide you through a basic machine learning workflow while providing live tips and hints to help maximize your understanding.
+
+
+
+We hope you enjoy our tool! Please feel free to contact us with any comments or questions
+
+- Kevin, Tianhao & Kathryn
