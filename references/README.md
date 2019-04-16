@@ -1,4 +1,4 @@
-**References Papers**
+**Referenced Papers**
 
 - SHAP by Scott Lundberg: https://github.com/slundberg/shap
 - Scott Lundberg, “A Unified Approach to Interpreting Model predictions”: https://arxiv.org/abs/1705.07874
@@ -8,7 +8,7 @@
 - Gabriele Tolomei, Fabrizio Silvestri, Andrew Haines and Mounia Lalmas, “Interpretable Predictions of Tree-based Ensembles via Actionable Feature Tweaking”: https://arxiv.org/abs/1706.06691
 
 
-** Picture, Video, Blog Post & Article References In Primer**
+**Picture, Video, Blog Post & Article References In Primer**
 
 - https://towardsdatascience.com/the-mathematics-of-machine-learning-894f046c568
 - https://www.youtube.com/watch?v=f_uwKZIAeM0
