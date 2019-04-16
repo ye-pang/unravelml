@@ -14,10 +14,12 @@ The **Machine Learning Primer** is a flipbook of ideas and concepts about machin
 
 In **Machine Learning Example Walkthroughs**, we walk through the Titanic survival problem from end to end, with a focus on the machine learning and interpretability concepts introduced in the Primer.
 
-Finally, we have created a prototype tool for you to begin exploring machine learning with your own data. The **Machine Learning Interpretability Tool** will guide you through the supervised classification machine learning workflow while providing interactive visualizaitons to help maximize your understanding.
+Finally, we have created a **Prototype tool** for you to begin exploring machine learning with your own data. The process will guide you through an automated machine learning workflow for **supervised classification** while providing interactive visualizaitons to help maximize your understanding.
 
 
 
 We hope you enjoy our tool! Please feel free to contact us with any comments or questions
 
-- Kevin, Tianhao & Kathryn
+* Kevin (yp2182@berkeley.edu) 
+* Tianhao
+* Kathryn
