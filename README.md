@@ -12,9 +12,9 @@ The tool contains three sections of content.
 
 The **Machine Learning Primer** is a flipbook of ideas and concepts about machine learning. What is it? How and when was it developed? What is all the hype about? We talk through these concepts using some real-world examples to give you a feel for the context surrounding machine learning. We want you to walk away from the primer with an understanding of the value of machine learning, as well as an introduction to its inner workings.
 
-In **Machine Learning Example Walkthroughs**, ######
+In **Machine Learning Example Walkthroughs**, we walk through the Titanic survival problem from end to end, with a focus on the machine learning and interpretability concepts introduced in the Primer.
 
-Finally, we have created a prototype tool for you to begin exploring machine learning with your own data. The **Machine Learning Interpretability Tool** will guide you through a basic machine learning workflow while providing live tips and hints to help maximize your understanding.
+Finally, we have created a prototype tool for you to begin exploring machine learning with your own data. The **Machine Learning Interpretability Tool** will guide you through the supervised classification machine learning workflow while providing interactive visualizaitons to help maximize your understanding.
 
 
 
