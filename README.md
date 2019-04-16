@@ -22,4 +22,4 @@ We hope you enjoy our tool! Please feel free to contact us with any comments or 
 
 * Kevin (yp2182@berkeley.edu) 
 * Tianhao
-* Kathryn
+* Kathryn (kathrynhamilton@berkeley.edu)
