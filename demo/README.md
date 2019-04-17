@@ -1,4 +1,4 @@
-1. Instantiate these containers
+1. Instantiate these containers, note the port mappings
 
 * `docker run --runtime=nvidia -d -v ~/uml:/opt/notebooks -p 30008:8888 -p 30009:6006 -p 30010:5555 ufoym/deepo:all-jupyter-py36-cu100 /bin/bash -c "jupyter notebook --no-browser --ip=0.0.0.0 --port=8888 --allow-root --notebook-dir=/opt/notebooks"`
 
