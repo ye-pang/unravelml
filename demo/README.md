@@ -17,3 +17,4 @@ Command line into the `demo/celery/tasks/` folder and run the following command:
 
 `python3 index.py`
 
+**Tip:** Use tmux and ctrl B+D to keep the background processes up for Dash, Celery, Flower
