@@ -17,9 +17,9 @@ Command line into the `demo/celery/tasks/` folder and run the following command:
 
 `python3 index.py`
 
-**Tip:** 
+**Tips:** 
 
 * Use tmux and ctrl B+D to keep the background processes up for Dash, Celery, Flower
-* [hostip]:30008 will serve Jupyter notebook
-* [hostip]:30009 will serve Dash app
-* [hostip]:30010 will server Flower
+* `{hostip}:30008` will serve Jupyter notebook
+* `{hostip}:30009` will serve Dash app
+* `{hostip}:30010` will server Flower
