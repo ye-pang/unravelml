@@ -5,7 +5,9 @@
 We have gathered instructional materials, examples, and tools to help you understand what machine learning is, how it can be used to solve problems, and what goes under the hood. No programming, math, or computer science experience required.
 
 
-You can visit our tool by clicking [here](https://www.figma.com/proto/Z3XRORqVILLsEwGoSWpxANXp/UnravelML?node-id=0%3A1&scaling=min-zoom). We recommend using a large monitor or viewing the tool in full screen for best performance.
+You can visit our entire tool, including the **Machine Learning Primer**, **Guided Walkthrough**, and **Prototype Tool** by clicking [here](https://www.figma.com/proto/Z3XRORqVILLsEwGoSWpxANXp/UnravelML?node-id=0%3A1&scaling=min-zoom). We recommend using a large monitor or viewing the tool in full screen for best performance.
+
+If you would like to view our **Prototype Tool** directly, click [here](http://169.62.176.245:32785/home).
 
 
 The tool contains three sections of content.
