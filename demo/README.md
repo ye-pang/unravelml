@@ -13,5 +13,7 @@ Command line into the `demo/celery/tasks/` folder and run the following command:
 
 `celery -A unravelML flower --port=5555`
 
-3. Instantiate the Dash server
+4. Instantiate the Dash server, go to the folder where index.py (demo/) is, then run:
+
+`python3 index.py`
 
